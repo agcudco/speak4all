@@ -134,7 +134,7 @@ Este proyecto está bajo la licencia MIT. Ver archivo `LICENSE` para más detall
 
 ## 👥 Autores
 
-- Tu Nombre - [@tuusuario](https://github.com/tuusuario)
+- Angel Geovanny Cudco Pomagualli - [agcudco@espe.edu.ec](https://github.com/agcudco)
 
 ## 🙏 Agradecimientos
 
